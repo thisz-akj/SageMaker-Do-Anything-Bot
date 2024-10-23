@@ -66,8 +66,6 @@ The bot offers a comprehensive solution, from finding project requirements to ma
 For a demonstration of the SageMaker-Make Anything Bot, please watch the project video here: [Project Video Link](<https://youtu.be/Vm9a1Mh63VU>).
 
 
----
 
-Feel free to adjust any specific details or add any additional sections you think are necessary! Let me know if you need more changes.
 
 
