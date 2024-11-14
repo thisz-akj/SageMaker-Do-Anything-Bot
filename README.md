@@ -19,7 +19,7 @@ To tackle these challenges, we have developed a sophisticated AI-powered chatbot
 - **ChromaDB** for similarity search, providing accurate and relevant product recommendations.
 - **Streamlit** for a user-friendly chatbot interface that integrates seamlessly with our self-created Django-based e-commerce website.
 
-The bot offers a comprehensive solution, from finding project requirements to managing the shopping cart and providing in-store item locations.
+The bot offers a comprehensive solution, from finding project requirements on website to managing the shopping cart and providing solutions and tutorials for consumers to help them make whatever they want.
 
 ## Key Features
 
