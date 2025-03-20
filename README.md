@@ -28,31 +28,36 @@ The bot offers a comprehensive solution, from finding project requirements on we
 - **Improved Engagement**: Achieved a 35% uplift in user interaction and a 15% increase in sales through intelligent recommendation algorithms.
 - **In-Store Navigation**: Provides customers with the locations of items in nearby retail stores.
 
+  
+## Project Video
+
+For a demonstration of the SageMaker-Make Anything Bot, please watch the project video here: [Project Video Link](<https://youtu.be/Vm9a1Mh63VU>).
+
+  ![image](https://github.com/user-attachments/assets/016c267f-4f3d-452a-8b61-4a4adafe25fc)
+
+
 ## Technology Stack
 
 - **AI & Machine Learning**: Google Gemini Generative AI
 - **Web Development**: Django (self-created e-commerce website), Streamlit, HTML, CSS, JavaScript
 - **Database**: SQLite, ChromaDB
 
-## Installation Instructions
+Installation
+Clone the repository:
+git clone https://github.com/your-repo/sagemaker.git
+2.Install dependencies:
 
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd SageMaker-Make-Anything-Bot
-   ```
+ 
+ pip install -r requirements.txt
 
-2. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
+3.Set up environment variables in a .env file:
+```bash
+ touch .enV
 
-3. Set up the database:
-   - Follow the instructions in `database_setup.md` to configure your SQLite database.
+4.Run the Streamlit application:
+```bash
+streamlit run app.py
 
-4. Run the application:
-   ```bash
-   python app.py
    ```
 
 ## Usage
@@ -61,9 +66,6 @@ The bot offers a comprehensive solution, from finding project requirements on we
 - Enter your project requirements, and the bot will provide relevant product suggestions.
 - The bot will help manage your shopping cart and offer tips on what to add or not forget.
 
-## Project Video
-
-For a demonstration of the SageMaker-Make Anything Bot, please watch the project video here: [Project Video Link](<https://youtu.be/Vm9a1Mh63VU>).
 
 
 
