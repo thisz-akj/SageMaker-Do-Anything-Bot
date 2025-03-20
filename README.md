@@ -43,22 +43,23 @@ For a demonstration of the SageMaker-Make Anything Bot, please watch the project
 - **Database**: SQLite, ChromaDB
 
 Clone the repository:
-'''bash
+```bash
 
 git clone https://github.com/your-repo/sagemaker.git
-'''
+  ```
 Install dependencies:
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+  ```
 Set up environment variables in a .env file:
-'''bash
+``` bash
 touch .env
-'''
+  ```
 Run the Streamlit application:
-'''bash
-streamlit run app.py
-'''
+ ```bash
+    streamlit run app.py
+   ```
+
 
 ## Usage
 
