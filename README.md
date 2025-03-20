@@ -42,23 +42,22 @@ For a demonstration of the SageMaker-Make Anything Bot, please watch the project
 - **Web Development**: Django (self-created e-commerce website), Streamlit, HTML, CSS, JavaScript
 - **Database**: SQLite, ChromaDB
 
-Installation
 Clone the repository:
+
 git clone https://github.com/your-repo/sagemaker.git
-2.Install dependencies:
 
- 
- pip install -r requirements.txt
+Install dependencies:
 
-3.Set up environment variables in a .env file:
-```bash
- touch .enV
+pip install -r requirements.txt
 
-4.Run the Streamlit application:
-```bash
+Set up environment variables in a .env file:
+
+touch .env
+
+Run the Streamlit application:
+
 streamlit run app.py
 
-   ```
 
 ## Usage
 
