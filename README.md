@@ -71,12 +71,6 @@ Run the Streamlit application:
    ```
 
 
-## Usage
-
-- Navigate to the chatbot interface in the ecommerce website(Self made-->code in the repo).
-- Enter your project requirements, and the bot will provide relevant product suggestions.
-- The bot will help manage your shopping cart and offer tips on what to add or not forget.
-
 
 
 
