@@ -27,15 +27,13 @@ The bot offers a comprehensive solution, from finding project requirements on we
 - **Personalized Recommendations**: Uses Generative AI and vector databases to enhance purchase intent.
 - **Improved Engagement**: Achieved a 35% uplift in user interaction and a 15% increase in sales through intelligent recommendation algorithms.
 - **In-Store Navigation**: Provides customers with the locations of items in nearby retail stores.
-**Personalized Step-by-Step Guidance:**
-The bot provides users with detailed instructions tailored to their specific projects, ensuring smooth workflows and reducing confusion.
+- **Personalized Step-by-Step Guidance:** The bot provides users with detailed instructions tailored to their specific projects, ensuring smooth workflows and reducing confusion.
 
-- **Smart Material Recommendations:**Uses Generative AI and vector databases to recommend the best materials and tools based on user input, optimizing the creation process.
+- **Smart Material Recommendations**:Uses Generative AI and vector databases to recommend the best materials and tools based on user input, optimizing the creation process.
 
-- **Dynamic Cart Integration:**Automatically adds the required items to the user's cart, minimizing the chance of missing out on necessary materials.
+- **Dynamic Cart Integration:** Automatically adds the required items to the user's cart, minimizing the chance of missing out on necessary materials.
 
-- **Video Tutorials & Support:**
-Offers curated tutorial videos to guide users through the entire process, ensuring they have the resources needed to complete their projects.
+- **Video Tutorials & Support:** Offers curated tutorial videos to guide users through the entire process, ensuring they have the resources needed to complete their projects.
 
 - **Real-Time API Integration:** Integrates with live APIs to adapt to user preferences and provide updated recommendations, ensuring a personalized experience.
 
