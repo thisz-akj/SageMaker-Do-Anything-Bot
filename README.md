@@ -48,7 +48,7 @@ For a demonstration of the SageMaker-Make Anything Bot, please watch the project
 
 ## Technology Stack
 
-- **AI & Machine Learning**: Google Gemini Generative AI
+- **AI & Machine Learning**: Transformers, text-to-texts LLM models, Embedding Models
 - **Web Development**: Django (self-created e-commerce website), Streamlit, HTML, CSS, JavaScript
 - **Database**: SQLite, ChromaDB
 
